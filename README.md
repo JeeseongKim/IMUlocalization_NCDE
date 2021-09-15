@@ -7,10 +7,14 @@ Neural CDE is used.
 ## status
 I am still working on this project
 
-## data
-The training dataset and test dataset are in data/
+## M9
+The training dataset and test dataset are in M9/
 
-## main_.py
+## utils_.py 
+This is a dataloader for the M9 data.
+I used low pass filter in data pre-processing.
+
+## main_NCDE.py
 The training code is in main_.py
 
 ## model
