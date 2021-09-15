@@ -4,14 +4,14 @@ This project predicts 2d position of a mopping robot by using acceleration, velo
 
 Neural CDE is used.
 
-##status
+## status
 I am still working on this project
 
-##data
+## data
 The training dataset and test dataset are in data/
 
-##main_.py
+## main_.py
 The training code is in main_.py
 
-##model
+## model
 The neural cde model is in model/
